@@ -6,5 +6,6 @@ Markup :
 - [x] downloading languages from URL
 - [x] syncing with new localizations and changes
 - [x] caching it inside app
+- [x] automatic handling of rtl & ltr languages
 
 ![HBLanguageManager](https://raw.githubusercontent.com/hilalbaig/HBLanguageManager/master/example.gif "HBLanguageManager Gif")
