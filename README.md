@@ -1,11 +1,26 @@
 # HBLanguageManager
+Language manager for iOS apps that handles downloading languages from server, syncing with new localizations, caching it inside app and switch between languages without app restart.
 
-The best language manager for iOS apps that do,
-Markup : 
+![HBLanguageManager](https://raw.githubusercontent.com/hilalbaig/HBLanguageManager/master/example.gif "HBLanguageManager Gif")
+
+The best language manager for iOS apps that does following for you in free 😉 , 
 - [x] switch between languages without app restart
 - [x] downloading languages from URL
 - [x] syncing with new localizations and changes
 - [x] caching it inside app
-- [x] automatic handling of rtl & ltr languages
+- [x] automatic handling of RTL & LTR languages
 
-![HBLanguageManager](https://raw.githubusercontent.com/hilalbaig/HBLanguageManager/master/example.gif "HBLanguageManager Gif")
+# Usage
+Just initiliaze HBLanguageManager in main.m file like: [HBLanguageManager setupCurrentLanguage]; for switching and downloading feature, download repo and see example.
+
+```objective-c
+int main(int argc, char * argv[]) {
+    @autoreleasepool {
+        [HBLanguageManager setupCurrentLanguage];
+        return UIApplicationMain(argc, argv, nil, NSStringFromClass([AppDelegate class]));
+    }
+}
+
+```
+
+
