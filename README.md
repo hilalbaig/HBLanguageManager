@@ -1,5 +1,5 @@
 # HBLanguageManager
-Language manager for iOS apps that handles downloading languages from server, syncing with new localizations, caching it inside app and switch between languages without app restart.
+Language manager for iOS apps that handles downloading, syncing, caching, rtl/ltr handling and switching between languages without app restart.
 
 ![HBLanguageManager](https://raw.githubusercontent.com/hilalbaig/HBLanguageManager/master/example.gif "HBLanguageManager Gif")
 
