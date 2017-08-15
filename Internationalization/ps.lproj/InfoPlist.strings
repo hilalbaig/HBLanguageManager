@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  Internationalization
+
+  Created by Hilal Baig on 5/2/17.
+  Copyright © 2017 HilalB. All rights reserved.
+*/
+
+"CFBundleDisplayName" = "Internationalization";
+"NSHumanReadableCopyright" = "2017 HilalB Inc. All rights reserved.";

@@ -1,0 +1,27 @@
+
+/* Class = "UITableViewController"; title = "Languages"; ObjectID = "80n-NJ-I7C"; */
+"80n-NJ-I7C.title" = "Languages";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "9jO-Hn-en7"; */
+"9jO-Hn-en7.text" = "Title";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "MWS-ez-NVR"; */
+"MWS-ez-NVR.text" = "Title";
+
+/* Class = "UITableViewController"; title = "Home"; ObjectID = "Q26-QO-3qh"; */
+"Q26-QO-3qh.title" = "Home";
+
+/* Class = "UINavigationController"; title = "Root Navigation"; ObjectID = "dao-KV-7qK"; */
+"dao-KV-7qK.title" = "Root Navigation";
+
+/* Class = "UINavigationItem"; title = "Internationalization"; ObjectID = "hR7-lN-crv"; */
+"hR7-lN-crv.title" = "Internationalization";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "khc-qS-ref"; */
+"khc-qS-ref.text" = "Detail";
+
+
+"0qg-KR-iDj.placeholder" = "text field";
+
+/* Class = "UIBarButtonItem"; title = "SignIn"; ObjectID = "t1P-rE-Sd3"; */
+"t1P-rE-Sd3.title" = "Sign in";

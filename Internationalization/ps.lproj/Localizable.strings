@@ -1,0 +1,14 @@
+/* 
+  Localize.strings
+  Internationalization
+
+  Created by Hilal Baig on 5/3/17.
+  Copyright © 2017 HilalB. All rights reserved.
+*/
+
+
+/* get full name */
+"Full Name" = "پورا نوم";
+
+/* my good name */
+"Muhammad Hilal Baig" = "محمد ہلال بیگ";
