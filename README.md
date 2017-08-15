@@ -7,3 +7,4 @@ Markup :
 - [x] syncing with new localizations and changes
 - [x] caching it inside app
 
+![HBLanguageManager](https://github.com/hilalbaig/HBLanguageManager/blob/master/example.gif")
